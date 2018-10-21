@@ -3,7 +3,7 @@
 //  SQulite3
 //
 //  Created by mac on 27/07/18.
-//  Copyright © 2018 jeky. All rights reserved.
+//  Copyright © 2018 jeky. All rights reserved.jaykishan h mORadiya
 //
 
 import UIKit
